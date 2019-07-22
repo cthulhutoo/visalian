@@ -1,6 +1,7 @@
 ---
 title: Fun Filming for Clients
 date: "2019-07-22"
+featuredImage: './Goshen.JPG'
 ---
 
 Lots of ways to do a photo shoot, but it has never been easier.
