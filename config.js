@@ -2,7 +2,7 @@ module.exports = {
   title: 'A little about me', // Required
   author: 'Ryan D Clark', // Required
   description: 'Agriculture Data Security and Automation Engineer',
-  primaryColor: '#3498db', // Required
+  primaryColor: '#012bd5', // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
