@@ -1,14 +1,14 @@
 ---
-title: Welcome to the Blog!
-date: "2018-07-01"
+title: Thoughts and Actions
+date: "2019-07-21"
 featuredImage: './featured.jpg'
 ---
 
-Welcome to the new blog, I hope you enjoy your stay! This is an example of how you can control what excerpt shows up.
+Kicking things off with Gatsby.
 
 <!-- end -->
 
-## Lorem ipsum dolor sit amet, consectetur adipiscing elit
+## Testing out this workflow
 
 Sed urna justo, scelerisque consectetur pharetra vitae, facilisis vel diam. Maecenas auctor enim a volutpat mattis. Morbi sit amet turpis a purus ornare pellentesque sit amet et ipsum. Suspendisse imperdiet mi at felis aliquet, nec consectetur arcu dignissim. Sed vitae diam maximus, maximus diam ac, scelerisque mi.
 
