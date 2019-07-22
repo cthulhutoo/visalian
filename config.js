@@ -1,17 +1,17 @@
 module.exports = {
-  title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
-  description: 'Full-stack Web Developer',
+  title: 'A little about me', // Required
+  author: 'Ryan D Clark', // Required
+  description: 'Agriculture Data Security and Automation Engineer',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    website: 'https://visalian.com',
+    github: 'https://github.com/cthulhutoo',
+    twitter: 'https://twitter.com/thevisalian',
+    linkedin: 'https://www.linkedin.com/in/ryandclark',
   },
   pathPrefix: '/devblog',
-  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
+  siteUrl: 'https://github.com/cthulhutoo/visalian',
 };
