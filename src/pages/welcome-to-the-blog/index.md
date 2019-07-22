@@ -4,22 +4,22 @@ date: "2019-07-21"
 featuredImage: './featured.jpg'
 ---
 
-Kicking things off with Gatsby.
+Kicking things off with Gatsby with Netlify, lets go.
 
 <!-- end -->
 
 ## Testing out this workflow
 
-Sed urna justo, scelerisque consectetur pharetra vitae, facilisis vel diam. Maecenas auctor enim a volutpat mattis. Morbi sit amet turpis a purus ornare pellentesque sit amet et ipsum. Suspendisse imperdiet mi at felis aliquet, nec consectetur arcu dignissim. Sed vitae diam maximus, maximus diam ac, scelerisque mi.
+So far this can't be any easier.  Pulling the demo template and each post will teach you a lot of the format tricks you'll want to use when making cool posts.
 
-*   Morbi sit amet turpis a purus
-*   Etiam tempor ultricies mi
-    *   Maecenas auctor enim a volutpat mattis
-*   Sed urna justo, scelerisque consectetur pharetra vitae
+*   Agenda items 1 
+*   Next itens 
+    *   Sub items
+*   Final notes ...  slick 
 
-Nam nec augue vel nisl placerat faucibus. Donec congue **nulla quis nunc** sagittis placerat. Pellentesque non tincidunt velit, cursus porttitor tellus. Suspendisse pulvinar tortor at _augue aliquam sagittis_. Duis non pulvinar augue. Ut tristique dignissim ligula, eget tempus diam molestie non. Nulla ultrices eleifend rutrum. Mauris convallis sollicitudin dui, pulvinar suscipit velit. Maecenas viverra finibus metus vitae blandit.
+Pretty straight forward text mods like **bold these words up** 
 
-### Pellentesque consectetur facilisis venenatis
+### Cool sub headers 
 
 Nam ullamcorper, orci nec tempor hendrerit, lorem nunc laoreet diam, vel gravida sem mi quis augue. Nunc odio velit, facilisis quis dictum non, facilisis quis felis. Vivamus [elementum dapibus nibh](https://google.com), eget aliquet nunc luctus maximus. Sed finibus risus eget ultrices maximus. Aliquam commodo consectetur diam eget tristique. Nunc quis erat quis felis fringilla tempus. Cras tempor nibh dolor, ac lacinia lacus ultrices eu.
 
