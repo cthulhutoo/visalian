@@ -1,6 +1,7 @@
 ---
 title: Sorting out our flow
 date: "2019-07-23"
+featuredImage: 'workflow.jpg'
 ---
 
 One of the frustrating things about starting a business is getting your toolchain and workflow setup.  nClouds changed our ticket system about every 4 months.  Task tracking and sales CRM are the same way.  So many tools seem so promising but adoption is hard.  After the 2nd and 3rd one the team will also tend to reduce effort as well.  Basically, tell me when your done and I will learn it.  Who can blame them?  What I thought was bad in 2009 is crazy today.  
