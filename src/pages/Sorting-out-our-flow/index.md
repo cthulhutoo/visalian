@@ -16,6 +16,6 @@ Looking more like this:
 
 All steps in the correct direction but it never ends. 
 
-Well now working with the [Middlestate team](https://middlestate.com) we get to craft a new toolchain.  I will write some posts in the coming days to explain what we use and why we use it.  It will be fun to look back and update this series of posts as we change.
+Well now working with the [Middlestate](https://middlestate.com) team we get to craft a new toolchain.  I will write some posts in the coming days to explain what we use and why we use it.  It will be fun to look back and update this series of posts as we change.
 
 
