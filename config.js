@@ -7,7 +7,7 @@ module.exports = {
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://visalian.com',
+    website: 'https://chat.visalian.com',
     github: 'https://github.com/cthulhutoo',
     twitter: 'https://twitter.com/thevisalian',
     linkedin: 'https://www.linkedin.com/in/ryandclark',
