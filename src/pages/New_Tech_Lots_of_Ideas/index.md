@@ -1,5 +1,5 @@
 ---
-title: New Tech Lot sof Ideas
+title: New Tech Lots of Ideas
 date: "2019-08-05"
 featuredImage: './blockchain.jpeg'
 ---
