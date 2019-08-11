@@ -15,3 +15,7 @@ Just like we are seeing people debate the value of the decentralized application
 
 ## Public vs Private blockchains
 
+I was really interested in the [Hyperledger](https://www.hyperledger.org) projects.  In particular, [Sawtooth](https://www.hyperledger.org/projects/sawtooth) had caught my eye with the proof of elapsed time(PoET).  I still think it is an innovative idea and I continue to track it.  The features that have lost my confidence have more to do with how it is being used.  The biggest projects are built as private or permissioned projects.  As we are watching the features of systems like this debated with the Libra project, pay attention.  [IBM Food Trust](https://www.ibm.com/blockchain/solutions/food-trust) is basically Libra for the food suppliers.  
+
+
+
