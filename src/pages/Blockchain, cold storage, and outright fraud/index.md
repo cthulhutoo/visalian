@@ -9,7 +9,9 @@ What a fantastic event to teach and learn important leasons about blockchain in 
 
 <!-- end -->
 
-DataHarvest was invited to speak at conference of logistics companies.  The group 
+DataHarvest was invited to speak at conference of logistics companies.  Many of the companies focused on all things on the water.  Terminals, Shipping lines, Containers, etc.  We met some really nice people that were not sure what to think of blockchain in general yet, but had very open minds and thoughtful comments.  
+
+The Port Authority acted as the hosts and they did a fantastic job featuring the facilities and culture of Valencia 
 
 1. GoPro 3+ and up 
 2. 1 nice prosumer still camera
