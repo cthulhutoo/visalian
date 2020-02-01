@@ -19,4 +19,4 @@ I learned that as an industry, shipping is changing rapidly in the area around d
 
 ![Container Port](./ContainerPort.jpg)
 
-More importantly, I met with many businesses that work on all the links in the chain that ultimately bring products to you.  Many of them are really looking for a way to show how they provide value.  How what they do and how they do it improves or even makes possible at all the conspiracy that made that product appear in front of you. 
+More importantly, I met with many businesses that work on all the links in the chain that ultimately bring products to you.  Many of them are really looking for a way to show how they provide value.  How what they do and how they do it improves or even makes possible at all the conspiracy that made that product appear in front of you.  A great take away for me is that they are all looking for ways to tell their story.  I think we got something for them.  
