@@ -13,7 +13,7 @@ DataHarvest was invited to speak at conference of logistics companies.  Many of 
 
 The Port Authority acted as the hosts and they did a fantastic job featuring the facilities and culture of Valencia 
 
-![Valencia Port](.PortAuth.jpg)
+![Valencia Port](./PortAuth.jpg)
 
 I learned that as an industry, shipping is changing rapidly in the area around data.  There has always been some early adoption but the damn really broke open in the last couple years.  
 
