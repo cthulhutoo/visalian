@@ -13,12 +13,10 @@ DataHarvest was invited to speak at conference of logistics companies.  Many of 
 
 The Port Authority acted as the hosts and they did a fantastic job featuring the facilities and culture of Valencia 
 
-1. GoPro 3+ and up 
-2. 1 nice prosumer still camera
-3. Prosumer DJI drone
+![Valencia Port](.PortAuth.jpg)
 
-These can all be purchased new for less than $2,500 with all the kit.  Memory, extra chargers, etc. 
+I learned that as an industry, shipping is changing rapidly in the area around data.  There has always been some early adoption but the damn really broke open in the last couple years.  
 
-![Film-team](./File-team.JPG)
+![Container Port](./ContainerPort.jpg)
 
-Everyone is able to show up, take loads of photos and wrap up in a few hours.  Spend all those hours of setting up light boards or staging the perfect shot on time in post production.  
+More importantly, I met with many businesses that work on all the links in the chain that ultimately bring products to you.  Many of them are really looking for a way to show how they provide value.  How what they do and how they do it improves or even makes possible at all the conspiracy that made that product appear in front of you. 
