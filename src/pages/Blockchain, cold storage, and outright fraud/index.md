@@ -4,7 +4,7 @@ date: "2019-09-18"
 featuredImage: './ContainerPort.jpg'
 ---
 
-##What a fantastic event to teach and learn important leasons about blockchain in the real world
+## What a fantastic event to teach and learn important leasons about blockchain in the real world
   
 
 <!-- end -->
