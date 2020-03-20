@@ -15,7 +15,7 @@ The Port Authority acted as the hosts and they did a fantastic job featuring the
 
 ![Valencia Port](./PortAuth.jpg)
 
-I learned that as an industry, shipping is changing rapidly in the area around data.  There has always been some early adoption but the damn really broke open in the last couple years.  
+I learned that as an industry, shipping is changing rapidly in the area around data.  There has always been some early adoption but the dam really broke open in the last couple years.  
 
 ![Container Port](./ContainerPort.jpg)
 
